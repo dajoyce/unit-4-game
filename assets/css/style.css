@@ -1,0 +1,91 @@
+body {
+    background: blue;
+    /* 1) need to set background to an image from internet */
+}
+
+.header {
+    background: rgb(224, 147, 3);
+    color: #ffffff;
+    width: 260px;
+    padding: 5px;
+}
+
+.instructions {
+    background: rgb(243, 212, 172);
+    color: green;
+    width: 400px;
+    height: 350px;
+    margin-top: 10px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.cpuGenerated {
+    background: rgb(101, 197, 101);
+    color: purple;
+    float: left;
+    width: 220px;
+    height: 95px;
+    margin-top: 10px;
+}
+
+.winsLosses {
+    background: aqua;
+    color: black;
+    float: left;
+    width: 95px;
+    height: 95px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.crystals {
+    clear: both;
+}
+
+#redCrystalPics {
+    float: left;
+    width: auto;
+    height: 70px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+#blueCrystalPics {
+    float: left;
+    width: auto;
+    height: 70px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+#yellowCrystalPics {
+    float: left;
+    width: auto;
+    height: 70px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+#greenCrystalPics {
+    float: left;
+    width: auto;
+    height: 70px;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+.scoreIs {
+    background: teal;
+    color: #ffffff;
+    width: 230px;
+    margin-top: 90px;
+}
+
+.scoreRealTime {
+    background: teal;
+    color: #ffffff;
+    width: 230px;
+    height: 95px;
+}
+
